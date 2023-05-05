@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Control_WebView</string>
+    <string name="website">Ir al Sitio Web</string>
+    <string name="site">Ingrese direccion del Sitio Web</string>
+    <string name="title">Aplicacion con WebView</string>
+    <string name="close">Cerrar</string>
+</resources>
