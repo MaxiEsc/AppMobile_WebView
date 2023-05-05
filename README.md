@@ -1,2 +1,3 @@
 # AppMobile_WebView
-Control WebView con Android Studio
+Aplicacion Mobile con Android Studio con JAVA aplicacndo el Control WebView de Android Studio, ejercicio practico para visitar sitios
+dentro de la aplicacion.
